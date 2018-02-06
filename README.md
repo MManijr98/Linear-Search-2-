@@ -1,0 +1,2 @@
+# Linear-Search-2-
+The linear search algorithim checks each element within a list from the beginning until the specified search key is found or if the end of the list was reached. The binary search algorithim checks the middle element of a list; if the search key has been found, the algorithim usually returns the matching location. However if it's not found, the algorithim re-dos the search on the left or right of the list.
